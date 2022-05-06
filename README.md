@@ -18,11 +18,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Forks][forks-shield]][https://github.com/DJ02-a/readme-template-test/fork]
+[![Stargazers][stars-shield]][https://github.com/DJ02-a/readme-template-test/stargazers]
+[![Issues][issues-shield]][https://github.com/DJ02-a/readme-template-test/issues]
 
 
 
