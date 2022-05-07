@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/DJ02-a/readme-template-test">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,14 +36,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DJ02-a/readme-template-test"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/DJ02-a/readme-template-test">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/DJ02-a/readme-template-test/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/DJ02-a/readme-template-test/issues">Request Feature</a>
   </p>
 </div>
 
@@ -120,7 +120,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DJ02-a/readme-template-test/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -148,7 +148,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/DJ02-a/readme-template-test](https://github.com/DJ02-a/readme-template-test)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -167,12 +167,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[contributors-shield]: https://img.shields.io/github/contributors/DJ02-a/readme-template-test.svg?style=for-the-badge
+[contributors-url]: https://github.com/DJ02-a/readme-template-test/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DJ02-a/readme-template-test.svg?style=for-the-badge
+[forks-url]: https://github.com/DJ02-a/readme-template-test/network/members
+[stars-shield]: https://img.shields.io/github/stars/DJ02-a/readme-template-test.svg?style=for-the-badge
+[stars-url]: https://github.com/DJ02-a/readme-template-test/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DJ02-a/readme-template-test.svg?style=for-the-badge
+[issues-url]: https://github.com/DJ02-a/readme-template-test/issues
 [product-screenshot]: images/screenshot.png
